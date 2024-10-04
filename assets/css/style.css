@@ -1,0 +1,53 @@
+header{
+
+    background-color: blue;
+   
+}
+.navbar ul{
+    display: flex;
+ list-style: none;
+
+ 
+}
+li a{
+    color: azure;
+    text-decoration: none;
+
+}
+.navbar ul li{
+    margin: 0 20px;
+    text-decoration: none;
+}
+.account{
+    text-align: end;
+    color: white;
+
+   
+    
+}
+.account a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+#Sentence{
+    background-color: rgb(70, 70, 223);
+}
+.introduction{
+   padding-top: 150px;
+}
+.introduction h1{
+    color: WHITE;
+}
+.introduction p{
+    color: WHITE;
+}
+.introduction a{
+    color: WHITE;
+    text-decoration: none;
+}
+.introduction i{
+    color: WHITE;
+  
+}
